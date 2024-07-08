@@ -31,4 +31,4 @@ int main(){
 		cout<<"EMPLEADO #"<<i + 1<<endl
 		
 	}
-	
+	Se agrega el archivo casi por finalizar
